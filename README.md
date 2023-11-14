@@ -4,6 +4,3 @@
 - 📫 Para entrar em contato comigo: https://www.linkedin.com/in/laiscostac/
 - 😄 Pronomes: ela/dela
 
-<div>
-  (https://github-readme-stats.vercel.app/api?username=laiscosta25)](https://github.com/anuraghazra/github-readme-stats)
-</div>
